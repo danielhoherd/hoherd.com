@@ -1,0 +1,21 @@
+body {
+  color: #111 ;
+  background: #FFE ;
+  font-size: 20px ;
+}
+
+.main {
+  color: #110 ;
+  font: 50px "Bickham Script Pro", "Brush Script MT" ;
+  width: 100% ;
+  border-width: 1px ;
+  text-align: center ;
+  vertical-align: 50% ;
+  position: relative ;
+  top: 20% ;
+  bottom: 20% ;
+}
+
+.main h1 {
+  color: #111 ;
+}
